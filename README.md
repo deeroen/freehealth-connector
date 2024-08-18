@@ -5,7 +5,7 @@ A streamlined mmu (Massively Multi User) version of the eHealth connector
 ```
 ./gradlew bootRun
 
-go to http://127.0.0.1:8080/api/index.html for documentation
+go to http://127.0.0.1:8090/api/index.html for documentation
 
 ```
 You need to set the mycarenet license info in org.taktik.connector.technical.properties
